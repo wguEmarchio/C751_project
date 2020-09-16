@@ -1,0 +1,13 @@
+https://stackoverflow.com/questions/21125222/determine-the-data-types-of-a-data-frames-columns
+https://www.datacamp.com/community/tutorials/make-histogram-ggplot2?utm_source=adwords_ppc&utm_campaignid=1565261270&utm_adgroupid=67750485268&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=332661264374&utm_targetid=dsa-473406569475&utm_loc_interest_ms=&utm_loc_physical_ms=9029694&gclid=EAIaIQobChMIlbiLgprY6wIVzcDACh0vww-gEAAYASAAEgJZJPD_BwE
+https://asq.org/quality-resources/histogram
+https://www.calwineries.com/learn/wine-chemistry/acidity
+https://www.arkansasonline.com/news/2019/may/15/wine-s-residual-sugar-determines-sweetn/
+https://swcarpentry.github.io/r-novice-inflammation/12-supp-factors/
+https://winemakermag.com/technique/501-measuring-residual-sugar-techniques#:~:text=Residual%20sugar%20can%20be%20either,for%20the%20type%20of%20wine.
+https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R-Manual/R-Manual4.html
+https://vinepair.com/wine-101/acidity-wine-mean/
+https://stackoverflow.com/questions/38068774/rstudio-suddenly-stopped-showing-plots-in-in-plot-pane#:~:text=I%20am%20working%20with%20Rmarkdown,for%20all%20R%20Markdown%20documents%22
+http://www.sthda.com/english/wiki/correlation-matrix-a-quick-start-guide-to-analyze-format-and-visualize-a-correlation-matrix-using-r-software
+www.r-graph-gallery.com/boxplot.html
+https://stackoverflow.com/questions/5677885/ignore-outliers-in-ggplot2-boxplot
